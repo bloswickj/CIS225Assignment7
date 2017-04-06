@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Account
+comment1.params=accountNumber\ accountHolders
+comment1.target=Account(java.lang.String,\ java.util.ArrayList)
+comment2.params=
+comment2.target=float\ getAccountBalance()
+comment3.params=
+comment3.target=java.lang.String\ getAccountNumber()
+comment4.params=
+comment4.target=java.util.ArrayList\ getAccountHolders()
+comment5.params=depositAmount
+comment5.target=void\ addToBalance(float)
+comment6.params=withdrawAmount
+comment6.target=void\ subtractFromBalance(float)
+numComments=7

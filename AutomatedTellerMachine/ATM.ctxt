@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ATM
+comment1.params=bank
+comment1.target=ATM(Bank)
+comment2.params=
+comment2.target=void\ transaction()
+comment3.params=card
+comment3.target=boolean\ validateUser(Card)
+comment4.params=card
+comment4.target=java.util.ArrayList\ getCardAccountNumbers(Card)
+comment5.params=card
+comment5.target=void\ printCardAccountNumbers(Card)
+comment6.params=selectedAccount
+comment6.target=java.lang.String\ makeDeposit(java.lang.String)
+comment7.params=selectedAccount
+comment7.target=java.lang.String\ makeWithdraw(java.lang.String)
+comment8.params=selectedAccount
+comment8.target=void\ checkBalance(java.lang.String)
+numComments=9

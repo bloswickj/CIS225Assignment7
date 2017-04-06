@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CheckingAccount
+comment1.params=accountNumber\ accountHolders
+comment1.target=CheckingAccount(java.lang.String,\ java.util.ArrayList)
+comment2.params=
+comment2.target=int\ getMonthlyFee()
+numComments=3
